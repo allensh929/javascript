@@ -1090,6 +1090,17 @@
     ```
 
     **[[⬆]](#TOC)**
+    
+  - Name your files using dashes and all lowercase.
+   ```javascript
+   //bad
+    myFile.js
+    MY_File.js
+    
+   //good
+   my-file.js
+   ```
+  
 
 
 ## <a name='accessors'>Accessors</a>
